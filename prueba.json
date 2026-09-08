@@ -1,0 +1,7 @@
+datos {
+
+    "nombre":"Daniel"
+    "Apellido":"Forero"
+    "edad" : "15"
+    "Estudiante":True
+}
